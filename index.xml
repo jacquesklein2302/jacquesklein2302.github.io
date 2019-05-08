@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Jinqiu Yang&#39;s Personal Website</title>
+    <link>/</link>
+    <description>Recent content in Home on Jinqiu Yang&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awards</title>
+      <link>/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/awards/</guid>
+      <description> IBM CAS Fellowship, 2014 &amp;ndash; 2017 IBM CAS Project of the Year, 2015 University of Waterloo Entrance Scholarship, Spring 2013 Best Speaker Award in ECE Graduate Research Seminar, U of Waterloo, Winter 2013 University of Waterloo Graduate Scholarship, Winter&amp;amp;Fall 2013 University of Waterloo Research Travel Assistantship, 2012  </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description> IBM CASCON Expo Session and Talk, November 2017 R2Fix Conference Talk, ICST&amp;rsquo;13, Luxembourg, March 2013. rPairs talk, Consortium for Software Engineering Research (CSER), Fall 2012. rPairs Conference Talk, MSR&amp;rsquo;13, Zurich, June 2012.  </description>
+    </item>
+    
+  </channel>
+</rss>
